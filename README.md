@@ -79,11 +79,11 @@ bash synthesize.sh
 
 ## 2. VisualTimeAnomaly (Evaluation)
 
-Download from: [https://github.com/mllm-ts/VisualTimeAnomaly]([https://github.com/mims-harvard/VisualTimeAnomaly)
+Download from: [https://github.com/mllm-ts/VisualTimeAnomaly](https://github.com/mllm-ts/VisualTimeAnomaly)
 
 ## 3. TSB-UAD (Evaluation)
 
-Download from: [https://github.com/decisionintelligence/TAB](https://github.com/decisionintelligence/TAB)
+Download from: [https://github.com/TheDatumOrg/TSB-UAD](https://github.com/TheDatumOrg/TSB-UAD)
 
 ## 4. Preprocess into Parquet
 
