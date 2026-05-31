@@ -1,7 +1,7 @@
 <h2 align="center">
 AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection
 <br><br>
-<img src="./assets/logo.png" width="120" alt="AnomSeer Logo">
+<img src="./assets/logo.jpg" width="120" alt="AnomSeer Logo">
 <br>
 <b>@ <a href="https://icml.cc/">ICML 2026</a></b>
 </h2>
