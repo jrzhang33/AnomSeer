@@ -1,7 +1,7 @@
 <h2 align="center">
 AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection
 <br><br>
-<img src="./assets/logo.jpg" width="400" alt="AnomSeer Logo">
+<img src="./assets/logo.jpg" width="300" alt="AnomSeer Logo">
 <br>
 <b>@ <a href="https://icml.cc/">ICML 2026</a></b>
 </h2>
@@ -15,7 +15,7 @@ AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detectio
 </p>
 
 <p align="center">
-  <img src="./assets/case-1.png" width="100%" alt="AnomSeer Overview">
+  <img src="./assets/case-1.png" width="90%" alt="AnomSeer Overview">
 </p>
 
 **AnomSeer** is a reinforcement-learning post-training framework for time-series anomaly detection (TSAD) with multimodal LLMs. It unifies anomaly **classification**, **localization**, and **explanation** by grounding MLLM reasoning in fine-grained, classical TSAD evidence through two components:
