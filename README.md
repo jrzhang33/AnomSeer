@@ -79,7 +79,7 @@ bash synthesize.sh
 
 ## 2. VisualTimeAnomaly (Evaluation)
 
-Download from: [https://github.com/mllm-ts/VisualTimeAnomaly]([https://github.com/mims-harvard/VisualTimeAnomaly](https://github.com/mllm-ts/VisualTimeAnomaly)
+Download from: [https://github.com/mllm-ts/VisualTimeAnomaly]([https://github.com/mims-harvard/VisualTimeAnomaly)
 
 ## 3. TSB-UAD (Evaluation)
 
