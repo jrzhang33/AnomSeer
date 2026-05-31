@@ -83,7 +83,7 @@ Download from: [https://github.com/mllm-ts/VisualTimeAnomaly](https://github.com
 
 ## 3. TSB-UAD (Evaluation)
 
-Download from: [https://github.com/TheDatumOrg/TSB-UAD](https://github.com/TheDatumOrg/TSB-UAD)
+Download from: [https://github.com/decisionintelligence/TAB](https://github.com/decisionintelligence/TAB)
 
 ## 4. Preprocess into Parquet
 
