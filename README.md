@@ -158,12 +158,6 @@ To evaluate on VisualTimeAnomaly or TSB-UAD, preprocess those datasets with `mul
 }
 ```
 
-# Co-Contributors
-
-| Contributor | Role |
-|---|---|
-| [Claude (Anthropic)](https://www.anthropic.com/claude) | AI assistant — codebase development, debugging, README writing, and engineering support throughout the project |
-
 # Acknowledgements
 
 We thank the [veRL](https://github.com/volcengine/verl) project for foundational RL infrastructure and [AnomLLM](https://github.com/Rose-STL-Lab/AnomLLM) for the synthetic TSAD benchmark and data generation code.
