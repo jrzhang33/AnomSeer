@@ -1,0 +1,34 @@
+# Data
+data/
+AnomLLM/
+
+# Checkpoints
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environments
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Claude Code
+.claude/
+
+# Logs & wandb
+wandb/
+*.log
